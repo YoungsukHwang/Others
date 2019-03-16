@@ -10,11 +10,11 @@ Short R code.
 --------------------------------------------------
 I have many other experiences in programming and computer science, but not listed here.
 
-Those include [Computer Architecture] class, [Data Mining] course, learning ML through on-campus IT training, diverse programming languages to solve Industrial Engineering problems, and so on.
+Those include [Computer Architecture] course, [Data Mining] course, learning ML through on-campus IT training, diverse programming languages to solve Industrial Engineering problems, and so on.
   
 I am also an avid self-learner in programming. Currently, I am taking Data-Science Course from https://codecademy.com to improve my data-analytics skills.
 
 --------------------------------------------------
 
-Thank you.
-Youngsuk Hwang
+Thank you</br>
+Youngsuk Hwang.
